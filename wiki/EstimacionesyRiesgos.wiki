@@ -1,4 +1,5 @@
 #summary Tiempos, Actividades y Problemas Supuestos
+#labels Phase-Support,Phase-Implementation,Phase-Requirements
 
 = Introduction =
 
