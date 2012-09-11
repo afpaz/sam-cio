@@ -4,22 +4,20 @@
 = Introduction =
 
 Proyecto	CDIO
+
 Documento	Lanzamiento
+
 Grupo	Grupo 1
 Ciclo	Ciclo I
-Fecha	Versión	Descripción	Autor
-15/8/2012	1.0	Lanzamiento	Nombre Autor
+
 Integrantes:
-Rol	Nombre	E-mail	Teléfono
-Líder	Carlos Andrés Muñoz	k_mu_oz@hotmail.com
-315 254 40 52
-Líder Desarrollo	José Luis Gutiérrez	guti199105@hotmail.com
-320 727 06 88
-Líder Planeación	Juan Fernando Domínguez	jdominguez92@gmail.com
-318 351 81 93
-Líder Calidad 	Juan David Botero 	juandbotero7@gmail.com	320 797 92 94
-Líder Soporte	Carlos Hernán Brugnoni	carlos_brugnoni85@yahoo.com	321 831 05 54
-Líder Desarrollo	Juan Felipe Aranguren	jufearche@gmail.com	301 269 61 74
+Rol	
+Líder	Carlos Andrés Muñoz	
+Líder Desarrollo	José Luis Gutiérrez	
+Líder Planeación	Juan Fernando Domínguez	
+Líder Calidad 	Juan David Botero 
+Líder Soporte	Carlos Hernán Brugnoni	
+Líder Desarrollo	Juan Felipe Aranguren	
  
 Objetivos del Grupo
 
