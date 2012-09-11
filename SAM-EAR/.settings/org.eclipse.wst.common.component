@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="SAM-EAR">
+        <wb-resource deploy-path="/" source-path="/EarContent" tag="defaultRootSource"/>
+        <dependent-module archiveName="SAM-EJB.jar" deploy-path="/" handle="module:/resource/SAM-EJB/SAM-EJB">
+            <dependent-object/>
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="SAM-EJBClient.jar" deploy-path="/" handle="module:/resource/SAM-EJBClient/SAM-EJBClient">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="SAM-WAR.war" deploy-path="/" handle="module:/resource/SAM-WAR/SAM-WAR">
+            <dependent-object/>
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="gwt-servlet.jar" deploy-path="/lib" handle="module:/classpath/lib/SAM-WAR/WebContent/WEB-INF/lib/gwt-servlet.jar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+    </wb-module>
+</project-modules>
