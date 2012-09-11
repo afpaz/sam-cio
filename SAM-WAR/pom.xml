@@ -1,0 +1,30 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+	<groupId>co.edu.icesi.sam</groupId>
+	<artifactId>sam-war</artifactId>
+	<version>0.0.1</version>
+	<packaging>war</packaging>
+	<name>SAM WAR</name>
+	<description>Sam Web Application</description>
+
+	<repositories>
+		<repository>
+			<id>sencha-commercial-release</id>
+			<name>Sencha commercial releases</name>
+			<url>https://maven.sencha.com/repo/commercial-release/</url>
+		</repository>
+	</repositories>
+	<dependencies>
+		<dependency>
+			<groupId>co.edu.icesi.sam</groupId>
+			<artifactId>sam-ejb</artifactId>
+			<version>0.0.1</version>
+		</dependency>
+		<dependency>
+			<groupId>co.edu.icesi.sam</groupId>
+			<artifactId>sam-ejbclient</artifactId>
+			<version>0.0.1</version>
+		</dependency>
+	</dependencies>
+</project>
