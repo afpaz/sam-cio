@@ -1,0 +1,72 @@
+# Introduction #
+
+
+Objetivos del Grupo
+
+Cumplir con los objetivos propuestos:
+Cumplir con las fechas de entrega:
+Esforzarse por desarrollar un trabajo de buena calidad:
+
+
+
+# Details #
+
+Proyecto	CDIO
+
+Documento	Lanzamiento
+
+Grupo	Grupo 1
+Ciclo	Ciclo I
+
+
+# Objetivos de los miembros del grupo #
+
+Ser un miembro efectivo y cooperativo:
+M1.1: Promedio de evaluación del rol por ayuda y soporte superior a 4
+M1.2: Promedio de evaluación del rol contribución global superior a 4
+Mantener una buena y constante comunicación:
+M2.1: Promedio de evaluación del rol por visibilidad superior a 4
+M2.2: Promedio de evaluación del rol por escucha superior a 4
+M2.3: Promedio de evaluación del rol por negociación superior a 4
+
+
+# Objetivos del Proyecto #
+
+> Cumplir con los requerimientos definidos en el documento de análisis de requerimientos, establecidos en el alcance de cada ciclo.
+M1.1 Implementar el 100% de los requerimientos establecidos en el documento de requerimientos.
+M1.2 Cumplir con los tiempos establecidos de entrega en cada ciclo.
+Objetivos  de los Roles
+
+Líder:
+
+> Conduce el grupo y se asegura de que todos los integrantes reporten sus datos del proceso y terminan su trabajo como se planeo.
+> M1: Motiva a los miembros del equipo para que trabajen con entusiasmo y dedicación.
+M2: Resuelve los conflictos que puedan aparecer en el grupo.
+
+
+
+Desarrollo:
+
+> Produce un producto de buena calidad, utilizando al 100% las habilidades y capacidades de los miembros del grupo.
+M1: Construye la estrategia de desarrollo del proyecto.
+M2: Crea los estimados de tiempo.
+M3: Conduce el desarrollo de la especificación de requerimientos y la producción de las especificaciones de diseño.
+
+Planeación:
+
+> Dar soporte y guía al grupo en las tareas de planeación y seguimiento del proyecto.
+M1: Producir un plan completo y preciso del plan del equipo y de cada uno de sus miembros.
+M2: Reportar semanalmente el estado del proyecto.
+
+Calidad:
+
+> Hace un seguimiento al proceso de desarrollo revisando a cada paso lo construido, comparándolo con los estándares de calidad que se desean implementar.
+M1: Revisa las entregas de cada miembro del equipo.
+M2: Reporta todas las inspecciones realizadas para su corrección.
+
+Soporte:
+
+> Da soporte  al grupo en la determinación de las tecnologías que se van a utilizar, además de otorgar una facilidad en el proceso de obtención y manipulación de estas tecnologías.
+M1: El grupo tiene las herramientas y los entornos de trabajo adecuados para realizar sus respectivos trabajos.
+M2:  Los problemas sobre las tecnologías son registrados y atendidos.
+
